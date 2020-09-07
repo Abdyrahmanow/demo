@@ -4,47 +4,47 @@
       "id": 11,
       "title": "Soup - Campbells",
       "subtitle": "vestibulum ac est lacinia nisi venenatis tristique",
-      "price": "$4.94"
+      "price": 578
     }, {
       "id": 21,
       "title": "Cabbage - Red",
       "subtitle": "justo sollicitudin ut suscipit a feugiat",
-      "price": "$2.91"
+      "price": 723
     }, {
       "id": 31,
       "title": "C - Plus, Orange",
       "subtitle": "condimentum curabitur in libero ut massa volutpat ",
-      "price": "$3.79"
+      "price": 120
     }, {
       "id": 41,
       "title": "Chicken - Leg / Back ",
       "subtitle": "nec condimentum neque sapien placerat ante nulla ",
-      "price": "$0.07"
+      "price": 221
     }, {
       "id": 51,
       "title": "Lamb - Loin Chops",
       "subtitle": "id turpis integer aliquet massa id lobortis convallis",
-      "price": "$0.74"
+      "price": 231
     }, {
       "id": 61,
       "title": "Wine - Alsace ",
       "subtitle": "nulla nisl nunc nisl duis bibendum felis sed",
-      "price": "$0.34"
+      "price": 412
     }, {
       "id": 71,
       "title": "Quiche Assorted",
       "subtitle": "aliquet ultrices erat tortor sollicitudin mi sit",
-      "price": "$4.61"
+      "price": "213
     }, {
       "id": 81,
       "title": "Oven Mitts 17 Inch",
       "subtitle": "luctus cum sociis natoque penatibus et magnis dis ",
-      "price": "$4.48"
+      "price": "127
     }, {
       "id": 91,
       "title": "Cheese - Stilton",
       "subtitle": "vestibulum ac est lacinia nisi venenatis tristique ",
-      "price": "$2.34"
+      "price": "201
     }
   ]
 }
