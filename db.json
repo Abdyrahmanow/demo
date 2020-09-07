@@ -34,7 +34,7 @@
       "id": 71,
       "title": "Quiche Assorted",
       "subtitle": "aliquet ultrices erat tortor sollicitudin mi sit",
-      "price": "213
+      "price": 213
     }, {
       "id": 81,
       "title": "Oven Mitts 17 Inch",
@@ -44,7 +44,7 @@
       "id": 91,
       "title": "Cheese - Stilton",
       "subtitle": "vestibulum ac est lacinia nisi venenatis tristique ",
-      "price": "201
+      "price": 201
     }
   ]
 }
